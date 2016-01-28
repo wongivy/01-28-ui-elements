@@ -11,11 +11,11 @@ ADDED from AndroidManifest.xml:18:1
 		INJECTED from AndroidManifest.xml:0:0
 	xmlns:android
 		ADDED from AndroidManifest.xml:20:5
-uses-permission#android.permission.BLUETOOTH_ADMIN
+uses-permission#android.permission.BLUETOOTH
 ADDED from AndroidManifest.xml:27:5
 	android:name
 		ADDED from AndroidManifest.xml:27:22
-uses-permission#android.permission.BLUETOOTH
+uses-permission#android.permission.BLUETOOTH_ADMIN
 ADDED from AndroidManifest.xml:28:5
 	android:name
 		ADDED from AndroidManifest.xml:28:22
